@@ -1,0 +1,14 @@
+  h1 {
+   color: red;
+   font-size: 500%;
+   text-align: center;
+  }
+  p {
+    color: green;
+    font-family: fantasy;
+    text-align: center;
+  }
+  body {
+    background-image: url(img/double-bubble-dark.png);
+    font-family: cursive;
+  }
